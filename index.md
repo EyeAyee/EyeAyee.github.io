@@ -20,8 +20,8 @@
 
 ### Algorithmic Trading
 
-- [Can an algorithm beat the stock market?](http://example.com/)
-- [Trading Algorithm]
+- [Can an algorithm beat the stock market?](https://github.com/EyeAyee/ALGO-trading/blob/main/Programming%20Report.docx)
+- [Trading Algorithm](https://github.com/EyeAyee/ALGO-trading)
 
 
 ---
