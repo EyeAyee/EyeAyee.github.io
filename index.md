@@ -4,23 +4,25 @@
 
 ### Data Visualization 
 
-[World Hunger](/sample_page)
+[World Hunger](https://a-mbaivisualsimran.vev.site/world-hunger-scrolly/)
 <img src="images/GHI.png?raw=true"/>
 
 ---
-[Spotify Data](http://example.com/](https://public.flourish.studio/visualisation/12118724/)
+[Spotify Data](https://public.flourish.studio/visualisation/12118724/)
 <img src="images/Top 200.png?raw=true"/>
+
+---
+[Global Warming](https://a-mbaivisualsimran.vev.site/climate-change-scrolly/)
+<img src="images/Temps.png?raw=true"/>
 
 ---
 
 
-### Category Name 2
+### Algorithmic Trading
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Can an algorithm beat the stock market?](http://example.com/)
+- [Trading Algorithm]
+
 
 ---
 
