@@ -20,7 +20,7 @@
 
 ### Algorithmic Trading
 
-- [Can an algorithm beat the stock market?](https://github.com/EyeAyee/ALGO-trading/blob/main/Programming%20Report.docx)
+- [Can an algorithm beat the stock market?](https://github.com/EyeAyee/ALGO-trading/blob/main/MACD_trading_strategy.ipynb)
 - [Trading Algorithm](https://github.com/EyeAyee/ALGO-trading)
 
 
