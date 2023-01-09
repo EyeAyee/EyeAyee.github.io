@@ -8,7 +8,7 @@
 <img src="images/GHI.png?raw=true"/>
 
 ---
-[Spotify Data](/pdf/sample_presentation.pdf)
+[Spotify Data](http://example.com/](https://public.flourish.studio/visualisation/12118724/)
 <img src="images/Top 200.png?raw=true"/>
 
 ---
